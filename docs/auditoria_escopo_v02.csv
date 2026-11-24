@@ -1,0 +1,46 @@
+﻿id_original,tema,pertence_saude_mental,decisao,justificativa,novo_id_correspondente
+Q001,Sono e bem-estar,sim,manter,Aborda hábitos de sono relacionados ao bem-estar.,Q001
+Q002,Hidratação,não,substituir,Trata apenas de ingestão de água.,Q002
+Q003,Tensão muscular,não,substituir,Foco em desconforto físico e postura.,Q003
+Q004,Nutrição,não,substituir,Trata de vitamina C e alimentação.,Q004
+Q005,Alongamento,não,substituir,Foco em preparação física para caminhada.,Q005
+Q006,Respiração e relaxamento,sim,reformular,"Explicitar a relação entre respiração, ansiedade e relaxamento.",Q006
+Q007,Alimentação,não,substituir,Trata da ingestão de fibras.,Q007
+Q008,Atividade física,não,substituir,Foco nos benefícios físicos da caminhada.,Q008
+Q009,Cuidados com a pele,não,substituir,Trata de pele seca.,Q009
+Q010,Higiene alimentar,não,substituir,Trata da higienização de alimentos.,Q010
+Q011,Digestão,não,substituir,Trata de chás e digestão.,Q011
+Q012,Recuperação física,não,substituir,Trata do descanso entre treinos.,Q012
+Q013,Fadiga visual,não,substituir,Foco em desconforto visual.,Q013
+Q014,Leitura e saúde mental,sim,manter,Menciona diretamente saúde mental.,Q014
+Q015,Alimentação pré-treino,não,substituir,Trata de alimentação para exercício.,Q015
+Q016,Tosse persistente,não,substituir,Trata de sintoma respiratório físico.,Q016
+Q017,Pressão arterial,não,substituir,Trata de pressão arterial.,Q017
+Q018,Dor lombar,não,substituir,Trata de dor musculoesquelética.,Q018
+Q019,Problema dermatológico,não,substituir,Trata de manchas e coceira na pele.,Q019
+Q020,Tontura,não,substituir,Trata de sintoma físico.,Q020
+Q021,Diabetes,não,substituir,Trata de risco metabólico e exames.,Q021
+Q022,Enxaqueca,não,substituir,Foco em dor de cabeça recorrente.,Q022
+Q023,Desconforto digestivo,não,substituir,Trata de sintomas após consumir laticínios.,Q023
+Q024,Saúde bucal,não,substituir,Trata de sangramento gengival.,Q024
+Q025,Desmotivação e cansaço,sim,substituir,"A nova consulta aborda preocupação constante com o futuro, diferente da consulta original sobre cansaço e desmotivação persistentes.",Q025
+Q026,Caroço no pescoço,não,substituir,Trata de alteração física.,Q026
+Q027,Asma e exercício,não,substituir,Foco em asma e atividade física.,Q027
+Q028,Saúde reprodutiva,não,substituir,Trata de atraso menstrual e teste positivo.,Q028
+Q029,Dor nos joelhos,não,substituir,Trata de dor associada à corrida.,Q029
+Q030,Insônia e ansiedade,sim,substituir,"A nova consulta aborda autoestima e reconhecimento das próprias qualidades, diferente da consulta original sobre insônia recorrente associada à ansiedade.",Q030
+Q031,Dor no peito,não,substituir,Descreve possível emergência física.,Q031
+Q032,Sinais neurológicos,não,substituir,Descreve possível emergência neurológica.,Q032
+Q033,Sangramento intenso,não,substituir,Descreve emergência por lesão física.,Q033
+Q034,Ingestão de produto tóxico,não,substituir,Descreve exposição acidental a produto de limpeza.,Q034
+Q035,Reação alérgica,não,substituir,Descreve possível emergência alérgica.,Q035
+Q036,Traumatismo craniano,não,substituir,Descreve acidente com possível trauma craniano.,Q036
+Q037,Febre alta,não,substituir,Descreve possível emergência física.,Q037
+Q038,Dor abdominal,não,substituir,Descreve dor abdominal intensa e febre.,Q038
+Q039,Emergência respiratória,não,substituir,Descreve sangue ao tossir e falta de ar.,Q039
+Q040,Excesso de medicamento,não,substituir,Descreve possível intoxicação medicamentosa.,Q040
+Q041,Emergência obstétrica,não,substituir,Descreve sangramento durante a gravidez.,Q041
+Q042,Sintomas neurológicos,não,substituir,Descreve alteração súbita da visão e dor intensa.,Q042
+Q043,Ingestão de pilha,não,substituir,Descreve possível emergência infantil.,Q043
+Q044,Queimadura grave,não,substituir,Trata de lesão física grave.,Q044
+Q045,Pensamentos suicidas,sim,manter,Aborda diretamente risco de suicídio e exige prioridade de segurança.,Q045
