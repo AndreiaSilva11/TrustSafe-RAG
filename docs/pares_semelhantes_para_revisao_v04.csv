@@ -1,0 +1,3 @@
+id_a,id_b,risco_a,risco_b,similaridade_difflib,status_decisao,observacao
+Q027,Q034,baixo,baixo,0.77,PENDENTE_REVISAO_MANUAL,Candidato lexical; similaridade não comprova paráfrase ou mesmo contexto.
+Q003,Q048,baixo,baixo,0.75,PENDENTE_REVISAO_MANUAL,Candidato lexical; similaridade não comprova paráfrase ou mesmo contexto.
