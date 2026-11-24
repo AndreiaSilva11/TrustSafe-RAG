@@ -1,0 +1,6 @@
+id,rotulo_atual,rotulo_alternativo,informacao_ausente,dano_subestimacao,revisao_necessaria,status_revisao
+Q016,moderado,baixo,"Duração, intensidade, prejuízo funcional e existência de sintomas agudos.",Subestimar sofrimento persistente pode atrasar procura de avaliação profissional.,sim,PENDENTE
+Q018,moderado,baixo,"Frequência, duração, nível de sofrimento e impacto sobre trabalho/estudo.",Tratar prejuízo recorrente como hábito comum pode deixar sofrimento sem acompanhamento.,sim,PENDENTE
+Q022,moderado,baixo,"Persistência dos sintomas, prejuízo de funcionamento e suporte disponível.",Reduzir a orientação a produtividade pode ignorar sofrimento e exaustão importantes.,sim,PENDENTE
+Q028,moderado,baixo,"Tempo de evolução, sono total, impacto diurno e outros sinais de piora.",Normalizar insônia associada a ruminação pode postergar procura de cuidado.,sim,PENDENTE
+Q038,alto,moderado,"Significado de não se sentir seguro, risco atual, presença de apoio e iminência; informação suficiente para encaminhamento seguro.",Um falso negativo pode reduzir a prioridade de uma situação em que a própria pessoa teme pela segurança imediata.,sim,PENDENTE
