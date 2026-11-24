@@ -1,0 +1,20 @@
+[
+  {
+    "notebook": "gerador_consultas.ipynb",
+    "status": "OK",
+    "errors": 0,
+    "execution_time_seconds": 2.04
+  },
+  {
+    "notebook": "01_exploracao_consultas.ipynb",
+    "status": "OK",
+    "errors": 0,
+    "execution_time_seconds": 2.32
+  },
+  {
+    "notebook": "02_exploracao_180_com_auditoria.ipynb",
+    "status": "OK",
+    "errors": 0,
+    "execution_time_seconds": 2.5
+  }
+]
