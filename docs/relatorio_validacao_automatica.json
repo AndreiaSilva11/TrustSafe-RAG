@@ -1,0 +1,49 @@
+{
+  "v02": {
+    "registros": 45,
+    "ids_unicos": 45,
+    "distribuicao": {
+      "baixo": 15,
+      "moderado": 15,
+      "alto": 15
+    },
+    "consultas_duplicadas": 0
+  },
+  "v04": {
+    "registros": 180,
+    "ids_unicos": 180,
+    "distribuicao": {
+      "baixo": 60,
+      "moderado": 60,
+      "alto": 60
+    },
+    "consultas_duplicadas": 0
+  },
+  "auditoria_escopo_v02": 45,
+  "auditoria_180": {
+    "registros": 180,
+    "status_revisao": {
+      "PENDENTE": 180
+    }
+  },
+  "correspondencia_v02_v04": 45,
+  "ids_diferentes_no_mapeamento": 30,
+  "procedencia_180": {
+    "registros": 180,
+    "grupos_pendentes": 180
+  },
+  "casos_ambiguos": 5,
+  "status_cientifico": "ROTULOS E GRUPOS NAO VALIDADOS; MODELOS NAO AUTORIZADOS",
+  "ambiente": {
+    "python": "3.13.5",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.8"
+  },
+  "hash_arquivos_oficiais": {
+    "data/raw/consultas_v01.csv": "acec86299404dcafff21f8b4c97eb06ba3b6f65bfe9bb2843451ee93cc6f59c4",
+    "data/raw/consultas_mental_v02.csv": "019855404fcea6850e79a5d6223f91758097be79d12130067753d23e6526bf42",
+    "data/raw/consultas_mental_v04.csv": "bb3ccf748cff24d385ff026b745dd56a79c641ee19efa804fa6251e4c0fe693b",
+    "docs/auditoria_escopo_v02.csv": "bc308d5539a80c1552d6e45aad21ee7ed6219f75fd711cfc177d6c2a11974c5d",
+    "docs/auditoria_escopo_v06.csv": "ab6eb8049ba027ac851a773b5c7afdbf02ba0f8e934ceb18db0c4719ce84d608"
+  }
+}
